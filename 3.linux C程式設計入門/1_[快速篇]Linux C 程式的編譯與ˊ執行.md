@@ -12,6 +12,8 @@ int main()
 ```
 ## 
 ```
+(0)產生
+   ==>degit helloCTFer.c
 (1)編譯
    ==> gcc helloCTFer.c  ==>  產生a.out執行檔   
    ==> gcc helloCTFer.c -o helloCTFer ==>  產生helloCTFer執行檔
